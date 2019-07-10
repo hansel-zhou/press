@@ -5,14 +5,14 @@
  * Author: hansel
  * Description:
  * -----
- * Last Modified: Wednesday, 10th July 2019 5:09:47 pm
+ * Last Modified: Wednesday, 10th July 2019 5:49:51 pm
  * Modified By: hansel
  * -----
  * Copyright © 2017-2018 Newland Payment Technology Limited. All rights reserved.
  */
 module.exports = {
-    title: '网站标题',
-    description: '网站描述',
+    title: '个人博客',
+    description: '学习vuepress的demo',
     // 注入到当前页面的 HTML <head> 中的标签
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }], // 增加一个自定义的 favicon(网页标签的图标)
