@@ -5,7 +5,7 @@
  * Author: hansel
  * Description:
  * -----
- * Last Modified: Wednesday, 10th July 2019 1:53:02 pm
+ * Last Modified: Wednesday, 10th July 2019 5:09:47 pm
  * Modified By: hansel
  * -----
  * Copyright © 2017-2018 Newland Payment Technology Limited. All rights reserved.
@@ -17,7 +17,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }], // 增加一个自定义的 favicon(网页标签的图标)
     ],
-    base: '/web_accumulate/', // 这是部署到github相关的配置 下面会讲
+    base: '/press/', // 这是部署到github相关的配置 下面会讲
     markdown: {
         lineNumbers: true // 代码块显示行号
     },
