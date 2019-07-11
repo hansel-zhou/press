@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo.jpg
-actionText: 快速上手 →
+actionText: go →
 actionLink: /vuebook/
 features:
 - title: 简洁至上
